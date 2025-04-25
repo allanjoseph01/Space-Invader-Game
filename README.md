@@ -1,4 +1,4 @@
-# 👾 Space Invaders Game (Private Project)
+# 👾 Space Invaders Game
 
 This is a personal implementation of the classic **Space Invaders** arcade game built using **JavaScript** and **HTML5 Canvas**. It was created as part of a learning project.
 
